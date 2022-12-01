@@ -1,3 +1,16 @@
+Vanessa Rubin 
+
+01 December 2022 
+
+Foundations of Programming: Python 
+
+Assignment 07 
+
+Script files: https://github.com/VRubin123/IntroToProg-Python-Mod7 
+
+
+
+
 # Introduction to Pickling and Structured Error Handling
 ## Introduction 
 
